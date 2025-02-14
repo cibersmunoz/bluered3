@@ -51,3 +51,20 @@
 - 20º Elimina logs del usuario
 
 - 21º Elimina pcaps del usuario
+
+
+----------------------------------------------------------
+
+### POSTINCIDENTE
+
+- Canary Token (x2)
+
+![alt text](image-4.png)
+
+- PINGS
+
+![alt text](image-5.png)
+
+- INTRUSIÓN JUGADOR
+
+![alt text](image-9.png)
